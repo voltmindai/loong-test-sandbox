@@ -1,0 +1,5 @@
+# Open Source AI Agents News – June 2026
+
+- [Trump kneecaps Anthropic, SpaceX bags Cursor and Databricks debuts AI agent coworker](https://siliconangle.com/2026/06/19/trump-kneecaps-anthropic-spacex-bags-cursor-databricks-debuts-ai-agent-coworker/) – SiliconANGLE (June 19, 2026): Databricks unveils Genie One agentic coworker; Anthropic models banned by Trump administration; SpaceX acquires Cursor for $60B.
+- [GPT-5.6 Rumors Heat Up as Users Swear ChatGPT Suddenly Got Smarter](https://decrypt.co/371699/openai-gpt-5-6-chatgpt-stealth-testing-rumors) – Decrypt (June 19, 2026): Users report stealth testing of GPT-5.6 with improved reasoning and slower response times; possible June 25 release.
+- [Arbor framework outperforms Claude Code and Codex by 2.5x in AI optimization benchmarks](https://cryptobriefing.com/arbor-framework-outperforms-claude-code-codex/) – Crypto Briefing (June 18, 2026): New open-source framework claims 2.5x performance improvement over proprietary coding agents.
